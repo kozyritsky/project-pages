@@ -3,20 +3,17 @@ title: XXX GROUP
 description: "ЗАЩИТА ПРИ ПРОВЕРКАХ ПОЛИЦИИ"
 url: "https://kozyritsky.github.io/test3/"
 
-
-
-
 # Secondary Parameters
 baseurl: "/project-pages"
 header-img: img/home-bg.jpg
-headercolor: "#FFFFFF"
+headercolor: "#406196"
 logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
-github_username:  projectpages
+github_username:  kozyritsky
 project_repository: project-pages
-disqus_shortname: project-pages
-g-analytics: UA-75881392-1
+disqus_shortname: -
+g-analytics: -
 altmetric: true
 
 # Build settings

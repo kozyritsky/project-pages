@@ -4,7 +4,7 @@ description: "ЗАЩИТА ПРИ ПРОВЕРКАХ ПОЛИЦИИ"
 url: "https://kozyritsky.github.io/project-pages/"
 
 # Secondary Parameters
-baseurl: "/project-pages"
+baseurl: "/kozyritsky"
 header-img: img/home-bg.jpg
 headercolor: "#ffffff"
 logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
